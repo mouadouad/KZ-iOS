@@ -1,0 +1,6 @@
+framework module Pods_KzTests {
+  umbrella header "Pods-KzTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
